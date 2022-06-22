@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: cubrid.jdbc.driver.CUBRIDDriver
+    url: jdbc:CUBRID:172.18.222.37:30000:Hellpark:public::?charSet=utf-8
+    username: dba
+    password: admin123
